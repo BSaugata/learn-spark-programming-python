@@ -38,3 +38,6 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [{ name = "pyspark", specifier = "==3.5.8" }]
+
+[package.metadata.requires-dev]
+dev = []
